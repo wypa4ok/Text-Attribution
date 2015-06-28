@@ -1,2 +1,1 @@
-# Text-Attribution
-This is my first readme file on the github!!!
+The purpose of this project was to create a system that is able to define the authorship of the text in case it met this writer before. The goal was achived by implementing a Support Vector Machine algorithm combined with Error Correcting Codes. 
