@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Diploma:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Diploma_jar</output-path>
+    <root id="archive" name="Diploma.jar">
+      <element id="module-output" name="Diploma" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/JNI_SVM-light-6.01/lib/jnisvmlight.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
