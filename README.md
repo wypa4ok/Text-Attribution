@@ -1,1 +1,2 @@
-The purpose of this project was to create a system that is able to define the authorship of the text in case it met this writer before. The goal was achived by implementing a Support Vector Machine algorithm combined with Error Correcting Codes. 
+  The purpose of this project was to create a system that is able to define the authorship of the given text. This task can be reffered to as a multi class classification problem where known writers/authors are classes and texts are elements that need to be classified. In this project I decided to use Support Vector Machine as a classifier and also Error-Correcting Output Coding was used to achieve higher precision. 
+  For SVM the jnisvmlight library was chosem.  
